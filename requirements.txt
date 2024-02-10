@@ -1,0 +1,6 @@
+easyocr = 1.7.1  		pip install easyocr
+pandas = 2.2.0   		pip install pandas
+gTTS 2.5.1       		pip install gTTS
+pymongo 4.6.1   	 	pip install pymongo
+python-vlc 3.0.20123 		pip install python-vlc
+SpeechRecognition 3.10.1	pip install SpeechRecognition
